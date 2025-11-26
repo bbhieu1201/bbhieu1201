@@ -1,7 +1,7 @@
 # 🚀 Minh Hieu — Software Engineer at YooTek Holdings
 **Backend • 3D/XR • Cloud • Distributed Systems**
 
-Xin chào! Mình là **Minh Hieu**, người đang dẫn dắt kiến trúc và phát triển toàn bộ hệ sinh thái **YooLife / YooStudio** — nền tảng kết hợp **AI, IoT, Social Network, Digital Twin, VR360, 3D/XR** hướng tới việc trở thành một hệ sinh thái công nghệ tầm cỡ quốc tế.
+Xin chào! Mình là **Minh Hieu**, người đang dẫn dắt kiến trúc và phát triển toàn bộ hệ sinh thái **YooLife / YooStudio** — nền tảng kết hợp **AI, IoT, Social Network, Digital Twin, VR360, 3D/XR** hướng tới việc trở thành một hệ sinh thái công nghệ .
 
 Mình thường xuyên làm việc ở giao điểm giữa **AI Generative + Distributed Systems + 3D Pipeline + Cloud Architecture**, xây dựng những hệ thống có khả năng mở rộng lớn, độ ổn định cao, và hiệu suất tối đa.
 
