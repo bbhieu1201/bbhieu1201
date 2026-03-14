@@ -96,12 +96,12 @@ Tôi là **Minh Hiếu**, Software Engineer dẫn dắt kiến trúc và phát t
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=7c3aed&text_color=94a3b8"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bbhieu1201&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=7c3aed&text_color=94a3b8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbhieu1201&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&langs_count=8"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=7c3aed&currStreakLabel=94a3b8" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bbhieu1201&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=7c3aed&currStreakLabel=94a3b8" />
 </div>
 
 ---
@@ -110,9 +110,9 @@ Tôi là **Minh Hiếu**, Software Engineer dẫn dắt kiến trúc và phát t
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bbhieu1201/bbhieu1201/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bbhieu1201/bbhieu1201/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bbhieu1201/bbhieu1201/output/github-contribution-grid-snake-dark.svg">
   </picture>
 </div>
 
