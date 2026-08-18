@@ -9,10 +9,10 @@
 <br/>
 
 <p align="center">
-  <a href="https://linkedin.com/in/minhhieu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:minhhieu@yootek.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/hieu-nguyen-minh-124415184" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:hieu.nm@yootek.vn"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://yootek.com" target="_blank"><img src="https://img.shields.io/badge/YooTek-7C3AED?style=for-the-badge&logo=rocket&logoColor=white" /></a>
-  <a href="https://github.com/minhhieu" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/bbhieu1201" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 </div>
